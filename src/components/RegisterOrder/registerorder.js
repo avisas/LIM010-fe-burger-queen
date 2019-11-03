@@ -1,6 +1,6 @@
 import React from 'react';
 import logo from '../../img/logo.png';
-import './RegisterOrder.css';
+import './registerorder.css';
 
 function RegisterOrder() {
   return (
@@ -10,7 +10,7 @@ function RegisterOrder() {
         <p>Burger Queen</p>
       </div>
       <div className="App-body">
-        <p>Este es el cuerpo</p>
+        <p>Este es el registerorder</p>
       </div>
     </div>
   );

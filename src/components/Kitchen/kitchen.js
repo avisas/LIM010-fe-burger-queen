@@ -10,7 +10,7 @@ function kitchen() {
         <p>Burger Queen</p>
       </div>
       <div className="App-body">
-        <p>Este es el cuerpo</p>
+        <p>Este es el kitchen</p>
       </div>
     </div>
   );

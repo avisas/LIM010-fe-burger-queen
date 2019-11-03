@@ -10,6 +10,7 @@ function Login() {
         <p>Burger Queen</p>
       </div>
       <div className="Login-body">
+        Este es el login
         <form className="login-form">
 
         </form>
