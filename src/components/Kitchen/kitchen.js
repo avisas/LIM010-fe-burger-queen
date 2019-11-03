@@ -1,8 +1,8 @@
 import React from 'react';
-import logo from '../img/logo.png';
-import './App.css';
+import logo from '../../img/logo.png';
+import './kitchen.css';
 
-function App() {
+function kitchen() {
   return (
     <div className="App">
       <div className="App-header">
@@ -16,4 +16,4 @@ function App() {
   );
 }
 
-export default App;
+export default kitchen;
