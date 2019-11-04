@@ -34,12 +34,15 @@ class Login extends Component {
           <p>Burger Queen</p>
         </div>
         <div className="Login-body">
+          <div className="form">
           <img className="Login-logo" src={logo} alt="logo loginUser" />
+          <p>Login to order tasty food today!</p>
           <form className="login-form" onSubmit={this.handleSubmit}>
             <input type="text" placeholder="username" id="user" onChange={this.handleChange} />
             <input type="password" placeholder="password" id="password" onChange={this.handleChange} />
             <button>login</button>
-          </form>
+          </form>  
+          </div>
         </div>
       </div>
     );
